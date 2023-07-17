@@ -28,6 +28,6 @@
   <a href="https://www.linkedin.com/in/felipe-bugalho-089083269" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake Animation](https://github.com/NSIX06/NSIX06/blob/output/github-contribution-grid-snake.svg)
+
 ![snake gif](https://github.com/NSIX06/NSIX06/blob/output/github-contribution-grid-snake.svg)
 
