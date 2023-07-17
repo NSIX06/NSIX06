@@ -3,7 +3,7 @@
 
 
 - 🛠️ I’m currently working on HTML, CSS, C# and Python
-- 🤓 I’m currently learning HTML and CSS
+- ☝️🤓 I’m currently learning HTML and CSS
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
