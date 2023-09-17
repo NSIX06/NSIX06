@@ -2,8 +2,8 @@
 (Olá! Bem-vindo ao meu repositório no GitHub)👋 
 
 
-- 🛠️ I’m currently working on HTML, CSS, C# and Python
-- ☝️🤓 I’m currently learning HTML and CSS
+- 🛠️ I’m currently working on HTML, CSS, PHP, C#.
+- ☝️🤓 I’m currently learning HTML, CS and PHP.
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
