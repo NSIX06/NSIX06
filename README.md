@@ -2,7 +2,7 @@
 (Olá! Bem-vindo ao meu repositório no GitHub)👋 
 
 
-- 🛠️ I’m currently working on HTML, CSS, PHP, C#.
+- 🛠️ I’m currently working on HTML, CSS, PHP, C# and more.
 - ☝️🤓 I’m currently learning HTML, CS and PHP.
 
 <div>
