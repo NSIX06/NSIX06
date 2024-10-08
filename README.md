@@ -36,7 +36,7 @@ Conhecimentos / Knowledge
   <img align="center" alt="Felipe-MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Felipe-SQLServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" /> 
   <img align="center" alt="Felipe-Vue.js" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
-    
+  <img align="center" alt="Felipe-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
