@@ -50,5 +50,16 @@ Contato / Contact
 </div>
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Contador de visistas / Visit counter
+
+
+<img src="https://profile-counter.glitch.me/h4rtdev/count.svg" alt="Hello world" />
+
+
+<hr/>
+
+
 
 
