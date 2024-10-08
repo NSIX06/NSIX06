@@ -39,6 +39,7 @@ Conhecimentos / Knowledge
   <img align="center" alt="Felipe-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img  align="center" alt="Felipe-React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Felipe-Node.js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Felipe-JavaScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
