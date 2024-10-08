@@ -16,6 +16,16 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Contador de visistas / Visit counter
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img src="https://profile-counter.glitch.me/NSIX06/count.svg" alt="Hello world" />
+
+
+<hr/>
+
+
 Conhecimentos / Knowledge
 
 <div>
@@ -49,16 +59,6 @@ Contato / Contact
   <a href="https://www.linkedin.com/in/felipe-bugalho-089083269" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Contador de visistas / Visit counter
-
-
-<img src="https://profile-counter.glitch.me/NSIX06/count.svg" alt="Hello world" />
-
-
-<hr/>
 
 
 
