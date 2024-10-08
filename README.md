@@ -10,7 +10,7 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=NSIX06&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NSIX06&layout=compact&langs_count=8&card_width=180&theme=dark" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NSIX06&layout=compact&langs_count=8&card_width=180&theme=dark"/>
 </a>
 </div>
 
@@ -37,6 +37,8 @@ Conhecimentos / Knowledge
   <img align="center" alt="Felipe-SQLServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" /> 
   <img align="center" alt="Felipe-Vue.js" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="Felipe-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img  align="center" alt="Felipe-React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<i align="center" alt="Felipe-Node.js" height="60" width="70" class="devicon-nodejs-plain-wordmark"></i>      
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
