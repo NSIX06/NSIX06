@@ -55,7 +55,7 @@ Contato / Contact
 Contador de visistas / Visit counter
 
 
-<img src="https://profile-counter.glitch.me/h4rtdev/count.svg" alt="Hello world" />
+<img src="https://profile-counter.glitch.me/NSIX06/count.svg" alt="Hello world" />
 
 
 <hr/>
