@@ -64,6 +64,8 @@ Contato / Contact
 </div>
 
 
+# ![snake gif](https://github.com/NSIX06/NISX06/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
