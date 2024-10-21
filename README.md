@@ -38,7 +38,7 @@ Ferramentas / Tools
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,discord,ps,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,discord,ps,vscode,visualstudio,bootstrap" />
   </a>
 </p>
 
