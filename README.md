@@ -28,7 +28,7 @@ Contador de visistas / Visit counter
 Conhecimentos / Knowledge
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,react,vue,c,cpp,cs,dotnet,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,py,react,vue,c,cpp,cs,dotnet,mysql" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ Ferramentas / Tools
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,discord,ps,vscode,visualstudio,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,discord,ps,vscode,visualstudio,bootstrap,notion" />
   </a>
 </p>
 
