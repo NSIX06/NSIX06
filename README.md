@@ -46,6 +46,8 @@ Conhecimentos / Knowledge
 
 Ferramentas / Tools
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-TRELLO" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"/>
   <img align="center" alt="Felipe-FIGMA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/> 
