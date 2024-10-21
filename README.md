@@ -27,7 +27,6 @@ Contador de visistas / Visit counter
 
 Conhecimentos / Knowledge
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,py,react,vue,c,cpp,cs,dotnet,mysql" />
   </a>
@@ -38,13 +37,10 @@ Conhecimentos / Knowledge
 Ferramentas / Tools
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-TRELLO" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"/>
-  <img align="center" alt="Felipe-FIGMA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/> 
-  <img align="center" alt="Felipe-Ps" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/> 
-  <img align="center" alt="Felipe-VSCODE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="Felipe-VSSTUDIO" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>        
-</div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,discord,ps,vscode,visualstudio" />
+  </a>
+</p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
