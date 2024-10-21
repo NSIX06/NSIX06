@@ -29,7 +29,7 @@ Conhecimentos / Knowledge
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,cs,js,php,py,react,vue,c,cpp,dotnet,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,react,vue,c,cpp,cs,dotnet,mysql" />
   </a>
 </p>
 
