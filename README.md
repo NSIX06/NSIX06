@@ -3,7 +3,7 @@
 
 
 - 🛠️ I’m currently working on HTML, CSS, PHP, MySql and SqlServer.
-- ☝️🤓 I’m currently learning NodeJs, Js and React.
+- ☝️🤓 I’m currently learning NodeJs, Vue, Js and React.
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
